@@ -1,5 +1,5 @@
 # Chat-Application
-A Real time chat application developed using Node.js and Socket.io. Users can Join into different room and start chatting and have fun.
+A Real time chat application developed using Node.js and Socket.io. Users can Join into different room, start chatting and have fun.
 
 ![Screenshot from 2021-11-19 18-57-12](https://user-images.githubusercontent.com/50790815/142631174-52f732ff-fe23-4e1d-ab7f-becd18174f14.png)
 
